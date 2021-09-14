@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help PROJECT_NAME to improve
+about: Create a report to help Trafi-Car-Sharing-API to improve
 title: "bug: "
 labels: "bug"
 assignees: ""
@@ -8,7 +8,7 @@ assignees: ""
 
 # Bug Report
 
-**PROJECT_NAME version:**
+**Trafi-Car-Sharing-API version:**
 
 <!-- Please specify commit or tag version. -->
 
