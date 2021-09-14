@@ -1,0 +1,21 @@
+Requirements:
+
+  API spec:
+  Endpoint 1       - Return available cars with required fields.
+  Endpoint 2       - Initiate car booking.
+  Endpoint 3       - Finish car booking. 
+                     When a booking is made we need to unlock a car and return the booking id.
+
+
+Important aspects:
+- Concurrency, state handlinimas.
+- Tell how you did your project, how I can make it PROD ready?
+
+Not really needed:
+- In the future, it's possible that the booking feature will be extended with \
+additional booking-related functions i.e. price calculation, range calculation.
+
+Notes:
+- This API will be used in the partner's car sharing pilot APP and will be 
+distributed to 50-100 test users.
+- Avoid commiting AWS credentials to public GitHub.
