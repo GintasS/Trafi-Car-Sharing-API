@@ -1,6 +1,6 @@
-﻿namespace TrafiCarSharingAPI.Core.Entities
+﻿namespace TrafiCarSharingAPI.Core.Models
 {
-    public struct LatLngModel
+    public struct LatLng
     {
         public double Lat { get; set; }
         public double Lng { get; set; }
