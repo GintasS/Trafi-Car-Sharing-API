@@ -70,7 +70,7 @@ namespace TrafiCarSharingAPI.Core.Controllers
         }
 
 
-        [HttpPost("/booking/start")]
+        [HttpPost("booking/start")]
         [ProducesResponseType(200, Type = typeof(BookCarResponse))]
         [ProducesResponseType(409)]
         [ProducesResponseType(500)]
