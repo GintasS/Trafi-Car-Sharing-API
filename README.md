@@ -146,12 +146,6 @@ PROJECT_NAME is provided **"as is"** without any **warranty**. Use at your own r
 
 _For more info, please refer to the [security](docs/SECURITY.md)._
 
-## License
-
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE) for more information.
-
 ## Acknowledgements
 
 > **[?]**
